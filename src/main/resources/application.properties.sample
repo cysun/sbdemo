@@ -1,0 +1,5 @@
+spring.datasource.url=jdbc:mysql://localhost/test
+spring.datasource.username=cysun
+spring.datasource.password=abcd
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.jpa.generate-ddl=true
