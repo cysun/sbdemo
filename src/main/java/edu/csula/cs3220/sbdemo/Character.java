@@ -1,4 +1,4 @@
-package edu.csula.cs3220.sbdemo.model;
+package edu.csula.cs3220.sbdemo;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
